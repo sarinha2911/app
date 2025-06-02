@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "yasa",
-    "slug": "yasa",
+    "name": "myexapleapp",
+    "slug": "myexapleapp",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
